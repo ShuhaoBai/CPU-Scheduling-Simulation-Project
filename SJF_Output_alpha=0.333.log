@@ -1,0 +1,94 @@
+SJF_Output_alpha=0.333
+pro0 enter in ready queue
+pro1 enter in ready queue
+pro2 enter in ready queue
+pro3 enter in ready queue
+pro4 enter in ready queue
+pro5 enter in ready queue
+pro6 enter in ready queue
+pro7 enter in ready queue
+pro8 enter in ready queue
+pro9 enter in ready queue
+Process0leaving readyQueue at: 0.0
+Process0entering IOQueue at: 90.0
+Process2leaving readyQueue at: 90.0
+Process2entering IOQueue at: 190.0
+Process6leaving readyQueue at: 190.0
+pro0 enter ready queue
+pro2 enter ready queue
+Process6entering IOQueue at: 310.0
+Process9leaving readyQueue at: 310.0
+pro6 enter ready queue
+Process9entering IOQueue at: 445.0
+Process8leaving readyQueue at: 445.0
+pro9 enter ready queue
+Process8entering IOQueue at: 575.0
+Process7leaving readyQueue at: 575.0
+Process5leaving readyQueue at: 628.4756245584116
+pro8 enter ready queue
+Process5entering IOQueue at: 743.4756245584116
+Process1leaving readyQueue at: 743.4756245584116
+Process4leaving readyQueue at: 743.4756245584116
+pro5 enter ready queue
+Process4entering IOQueue at: 853.4756245584116
+Process3leaving readyQueue at: 853.4756245584116
+pro4 enter ready queue
+Process3entering IOQueue at: 958.4756245584116
+Process4leaving readyQueue at: 958.4756245584116
+pro3 enter ready queue
+Process4entering IOQueue at: 1178.4756245584117
+Process3leaving readyQueue at: 1178.4756245584117
+pro4 enter ready queue
+Process3entering IOQueue at: 1388.4756245584117
+Process0leaving readyQueue at: 1388.4756245584117
+Process0entering IOQueue at: 1568.4756245584117
+Process2leaving readyQueue at: 1568.4756245584117
+pro3 enter ready queue
+pro0 enter ready queue
+Process2entering IOQueue at: 1768.4756245584117
+Process0leaving readyQueue at: 1768.4756245584117
+pro2 enter ready queue
+Process0entering IOQueue at: 2038.4756245584117
+Process2leaving readyQueue at: 2038.4756245584117
+pro0 enter ready queue
+Process2entering IOQueue at: 2338.4756245584117
+Process5leaving readyQueue at: 2338.4756245584117
+pro2 enter ready queue
+Process5entering IOQueue at: 2568.4756245584117
+Process6leaving readyQueue at: 2568.4756245584117
+Process8leaving readyQueue at: 2721.6257968042605
+Process9leaving readyQueue at: 2721.6257968042605
+pro5 enter ready queue
+Process9entering IOQueue at: 2991.6257968042605
+Process5leaving readyQueue at: 2991.6257968042605
+pro9 enter ready queue
+Process5entering IOQueue at: 3336.6257968042605
+Process9leaving readyQueue at: 3336.6257968042605
+pro5 enter ready queue
+Process9entering IOQueue at: 3741.6257968042605
+Process3leaving readyQueue at: 3741.6257968042605
+Process3entering IOQueue at: 4056.6257968042605
+Process4leaving readyQueue at: 4056.6257968042605
+pro9 enter ready queue
+pro3 enter ready queue
+Process4entering IOQueue at: 4386.625796804261
+Process3leaving readyQueue at: 4386.625796804261
+Process3entering IOQueue at: 4806.625796804261
+Process0leaving readyQueue at: 4806.625796804261
+pro4 enter ready queue
+pro3 enter ready queue
+Process0entering IOQueue at: 5166.625796804261
+Process4leaving readyQueue at: 5166.625796804261
+Process2leaving readyQueue at: 5497.400928344752
+Process5leaving readyQueue at: 5829.313257984657
+Process9leaving readyQueue at: 6225.070812990309
+Process3leaving readyQueue at: 6225.070812990309
+pro0 enter ready queue
+Process0leaving readyQueue at: 6665.864285324344
+Process0entering IOQueue at: 7115.864285324344
+pro0 enter ready queue
+Process0leaving readyQueue at: 7115.864285324344
+CPU utilization: 35.748432523471635 %
+Throughput: 79.07885227880412 processes/minute
+Average turnaround time: 0.016150287057254967 minutes/process
+Average waiting time: 0.0028993398783884556 minutes/process
