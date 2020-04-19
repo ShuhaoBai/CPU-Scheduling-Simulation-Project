@@ -10,5 +10,5 @@ Simulation Requirement:
 4. A job, once it enters the system, can be either in the Ready queue, or I/O Waiting queue, or it is being executed by the CPU.
 
 Testing rules:  
-a). Different simulation runs are to be performed with the First-Come-First-Servedand Shortest-Job-First(SJF) algorithms. 
+a). Different simulation runs are to be performed with the First-Come-First-Servedand Shortest-Job-First(SJF) algorithms.   
 b). When using SJF, experiment with exponential averaging. Use the alpha values of 1 (no prediction), 1/2, and 1/3, and log the effect on the results.
